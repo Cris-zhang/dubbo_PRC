@@ -1,2 +1,3 @@
-# dubbo_PRC
-实现dubbo RPC
+# RP
+
+仿写RPC
